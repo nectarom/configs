@@ -1,0 +1,20 @@
+# nectarOM EditorConfig
+# This file should be placed in the root of your nectarOM project directory
+# Download the appropriate plugin for your text editor at 'http://editorconfig.org/#download'
+
+# top-most EditorConfig file
+root = true
+
+# Set style rules for all file types
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Matches the exact file package.json
+[{package.json}]
+indent_style = space
+indent_size = 2
