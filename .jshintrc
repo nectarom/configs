@@ -1,0 +1,12 @@
+{
+    "bitwise": true,
+    "eqeqeq": true,
+    "freeze": true,
+    "futurehostile": true,
+    "latedef": "nofunc",
+    "nonbsp": true,
+    "node": true,
+    "nonew": true,
+    "undef": true,
+    "unused": true
+}
