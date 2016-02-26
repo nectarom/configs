@@ -25,6 +25,7 @@
         "no-arrow-condition": 2,
         "no-array-constructor": 2,
         "no-case-declarations": 2,
+        "no-console": 0,
         "no-else-return": 2,
         "no-empty-pattern": 2,
         "no-eq-null": 2,
