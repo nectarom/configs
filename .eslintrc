@@ -23,10 +23,11 @@
         "handle-callback-err": 2,
         "indent": [2, 4, {"SwitchCase": 1}],
         "key-spacing": [2, {"beforeColon": false, "afterColon": true}],
-        "no-arrow-condition": 2,
+        "keyword-spacing": [2, {"before": true, "after": true, "overrides": {}}],
         "no-array-constructor": 2,
         "no-case-declarations": 2,
         "no-console": 0,
+        "no-constant-condition": 2,
         "no-else-return": 2,
         "no-empty-pattern": 2,
         "no-eq-null": 2,
@@ -65,10 +66,8 @@
         "quote-props": [2, "as-needed"],
         "quotes": [2, "single", "avoid-escape"],
         "semi": [2, "always"],
-        "space-after-keywords": 2,
         "space-before-function-paren": [2, { "anonymous": "always", "named": "never" }],
         "space-in-parens": [2, "never"],
         "space-infix-ops": 2,
-        "space-return-throw-case": 2
     }
 }
